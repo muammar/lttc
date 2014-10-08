@@ -26,6 +26,8 @@ p {
     margin-bottom: auto;
     margin-right: auto;
     margin-left: auto;
+    text-align: justify;
+    text-justify: inter-word;
 }
 ul {
     font-size: 14px;
