@@ -21,6 +21,20 @@ body {
 p {
     font-size: 14px;
     line-height: 1.75;
+    max-width: 800px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+ul {
+    font-size: 14px;
+    line-height: 1.75;
+    max-width: 800px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 p.large {
