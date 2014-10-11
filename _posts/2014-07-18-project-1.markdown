@@ -1,15 +1,19 @@
 ---
 title: Superbagnères
-subtitle: Website Design
+subtitle: Get ready for skiing
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: escape.png
+thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014
 
 category: Web Development
 description: Luchon Superbagnères (Haute-Garonne Department, 140km south of Toulouse) opens you the doors of the Pyrenees and invites you to discover its ski area located on a naturally sunny balcony where you can enjoy breathtaking views over the valley of Luchon and the Maladeta massif, including Aneto, which is the highest peak in the Pyrenees.
+
+
+
+
 
 ---
