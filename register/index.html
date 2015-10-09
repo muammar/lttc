@@ -1,3 +1,70 @@
----
-layout: registration
----
+<div class="col-lg-12 text-center">
+    <h2 class="section-heading">Registration form to participate to LTTC 2016</h2>
+</div>
+
+<p>
+    <font color="black">If you are contacting us for registration, please fill
+        carefully the form below. Additionally, </br>you will need to tell us
+        if you will bring your laptop and which operating system you
+        use.
+        <br>
+        <br>
+        For inquiries please use the <a href="../#contact">contact form</a>.
+    </font>
+</p>
+<form action="http://getsimpleform.com/messages?form_api_token=cf654992ad269d62264c8616d2efb65a" method="post" enctype="multipart/form-data">
+  <input type='hidden' name='redirect_to' value='http://www.irsamc.ups-tlse.fr/lttc/register/thanks/' />
+  <br />
+  <label for='name'><font color="black"><b>Personal and academic information</b></font></label>
+  <br />
+  <br />
+  <input type='text' id='name' name='name' placeholder='Name' />
+  <br />
+  <br />
+  <input type='text' id='lastname' name='lastname' placeholder='Last Name' />
+  <br />
+  <br />
+  <input type='text' id='email' name='email' placeholder='Your Email' />
+  <br />
+  <br />
+  <input type='text' id='affiliation' name='affiliation' placeholder='Affiliation' />
+  <br />
+  <br />
+  <input type='text' id='positon' name='position' placeholder='Position (Master, PhD)' />
+  <br />
+  <br />
+  <label for='name'><font color="black">Master or PhD speciality?</font></label>
+  <br />
+  <textarea id='speciality' name='speciality' placeholder='Speciality and Title of your thesis' cols='50'></textarea>
+  <br />
+  <br />
+  <label for='name'><font color="black">Do you know how to program?</font></label>
+  <br />
+  <textarea id='programming' name='programming' placeholder='If yes, which language? (Fortran, Python, C++, C, etc)' cols='50'></textarea>
+  <br />
+  <br />
+  <label for='name'><font color="black">Will you bring your laptop?</font></label>
+  <br />
+  <input type='text' id='laptop' name='laptop' placeholder='Answer Yes or No'/>
+  <br />
+  <br />
+  <label for='name'><font color="black">If you will bring your laptop, tell us about your operating system:</font></label>
+  <br />
+  <input type='text' id='os' name='os' placeholder='Linux, OS X, Windows?' />
+  <br />
+  <br />
+  <label for='name'><font color="black">Please, provide the name and email of at least one reference:</font></label>
+  <br />
+  <textarea id='referee' name='referee' placeholder='Name and email of your references here' cols='50'></textarea>
+  <br />
+  <br />
+  <label for='name'><font color="black">Message</font></label>
+  <br />
+  <textarea id='message' name='message' placeholder='(Optional)' rows='8' cols='50'></textarea>
+  <br />
+  <label for='file'>Attachments (Optional)</label>
+  <br />
+  <input type='file' name='avatar' />
+  <br />
+  <input type='submit' value='Submit' />
+</form>
