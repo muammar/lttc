@@ -1,15 +1,15 @@
 ---
-title: Luchon, activities
+title: Activities
 subtitle: Sports
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2016-02-13
 img: sport.jpg
 thumbnail: sport-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Luchon is a lively holiday destination that attracts hikers, spa-goers, skiers, white water sports enthusiasts, mountain-bikers and bicycle tourists throughout the year. 
+client: LTTC
+category: winter
+description: Saint-Lary is a lively holiday destination that attracts hikers, spa-goers, skiers, white water sports enthusiasts, mountain-bikers and bicycle tourists throughout the year.
+
 
 ---
