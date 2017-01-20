@@ -1,5 +1,5 @@
 ---
-title: natural sites
+title: Luchon, natural sites
 subtitle: Beautiful Landscapes
 layout: default
 modal-id: 2
@@ -7,8 +7,8 @@ date: 2014-07-17
 img: paysage.png
 thumbnail: paysage-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: January 2017
 client: LTTC
 category: winter
-description: Saint-Lary-Soulan is one of the largest ski resorts in the French Pyrenees with over 100 km of downhill slopes. There are 53 pistes spread over three linked, and yet distinct sectors. Saint Lary 1700 is known as the Pla d'Adet sector and provides family skiing including snow kindergarten, toboggan run and a 'Kidpark', a snowpark aimed at young skiers aged between 6 and 12 years. Saint Lary 1900 is known as the Espiaube sector and is frequented by more experienced skiers. The showpiece ski run is the Mirabelle which descends 700 metres over its 3.6 km (2.2 mi) length. Saint Lary 2400 has a snowpark which doubles as a skate park in the summer, mogul and slalom stadiums and also provides access to Lake Oule for snow-shoeing.
+description: Luchon have many beautiful places to explore by foot, bicycle, motorcycle, horseback and by car. 1) The Lys Valley is a wild valley worth exploring up to the impressive Cascade d’Enfer waterfall and beyond, to the Gouffre d’Enfer sinkhole. 2) The Lac d’Oô is a blue-green gem of a lake at 1,507 m, surrounded by stunning vertical rock faces and fed by a 275m waterfall. 3) The Hospice de France is in a spectacular setting of mountain pastures and forests. It is also an historic place that has been welcoming travellers and adventurers exploring the Pyrenees since the 17th century.
 ---
