@@ -1,0 +1,14 @@
+---
+title: Theory and Implementation of DFT-Based Methods
+subtitle: Pierre-François Loos (LCPQ)
+layout: default
+modal-id: 5
+date: 2017-09-25
+img: titoo.png
+thumbnail:
+alt: image-alt
+project-date: January 2018
+client: LTTC
+category: winter
+description: <b>Motivation&#58;</b> This workshop aims at illustrating how to compute exchange-correlation energies within density-functional theory.<Br> <b>Goal of the tutorial&#58;</b> Understand the theory behind DFT as well as their implementation in software packages.<Br> <b> What are we going to learn&#58;</b><Br> * How to compute the required integrals involving the exchange-correlation potentials via numerical quadratures<Br> * Implementation of several well-known exchange and correlation functionals 
+---

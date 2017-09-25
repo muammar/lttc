@@ -1,0 +1,14 @@
+---
+title: Exploration of Potential Energy Surfaces - Molecular Dynamics (PES)
+subtitle: Jérôme Cuny (LCPQ)
+layout: default
+modal-id: 10
+date: 2017-09-25
+img: jerome.png
+thumbnail:
+alt: image-alt
+project-date: January 2018
+client: LTTC
+category: winter
+description: <b>Motivation&#58;</b> Exploration of potential energy surfaces (PES) is of paramount importance in modern theoretical chemistry. Indeed, physical and chemical properties of a given system at low temperature are generally determined by one or a few structures which need to be explicitly characterized. Furthermore, various properties are only meaningful at finite temperature which requires the finite-temparature exploration of the corresponding PES. In a number of cases, taking advantage of code parallelism is simple and will greatly help in improving sampling.<Br> <b>Goal of the tutorial&#58; </b> Give the students the basic knowledge to understand molecular dynamics approaches and the related machineries, both serial and parallel.<Br> <b> What are we going to learn&#58;</b><Br> * Implement the basic routines in a molecular dynamics code.<Br> * Understand and implement a simple parallel code with MPI. <Br> * Implement a parallel-tempering molecular dynamics code with MPI.
+---

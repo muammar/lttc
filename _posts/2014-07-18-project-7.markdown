@@ -1,0 +1,14 @@
+---
+title: Low-dimensional Carbon structures - the usefulness of simple approaches
+subtitle: Stefano Evangelisti (LCPQ)
+layout: default
+modal-id: 7
+date: 2017-09-25
+img: stefano.jpg
+thumbnail:
+alt: image-alt
+project-date: January 2018
+client: LTTC
+category: winter
+description: <b>Motivation&#58;</b> <Br> <b>Goal of the tutorial&#58;</b> <Br> <b> What are we going to learn&#58;</b><Br> * <Br> *
+---

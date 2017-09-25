@@ -3,11 +3,11 @@ title: Luchon, natural sites
 subtitle: Beautiful Landscapes
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2017-09-25
 img: paysage.png
 thumbnail: paysage-thumbnail.png
 alt: image-alt
-project-date: January 2017
+project-date: January 2018
 client: LTTC
 category: winter
 description: Luchon have many beautiful places to explore by foot, bicycle, motorcycle, horseback and by car. 1) The Lys Valley is a wild valley worth exploring up to the impressive Cascade d’Enfer waterfall and beyond, to the Gouffre d’Enfer sinkhole. 2) The Lac d’Oô is a blue-green gem of a lake at 1,507 m, surrounded by stunning vertical rock faces and fed by a 275m waterfall. 3) The Hospice de France is in a spectacular setting of mountain pastures and forests. It is also an historic place that has been welcoming travellers and adventurers exploring the Pyrenees since the 17th century.

@@ -1,0 +1,14 @@
+---
+title: Quantum Magnetism - the Heisenberg model
+subtitle: Nicolas Suaud (LCPQ)
+layout: default
+modal-id: 8
+date: 2017-09-25
+img: nico.jpg
+thumbnail:
+alt: image-alt
+project-date: January 2018
+client: LTTC
+category: winter
+description: <b>Motivation&#58; </b>Magnetic molecules and materials are of the highest interest in many fields of physics and have important applications (information storage, spintronics). The modelization of these systems, that is still challenging in many cases, is compulsory for the understanding of their properties and eventually their tuning. Such approach (modelization) is general in theoretical chemistry and physic. <Br> <b>Goal of the tutorial&#58; </b>Programmation of the code that generates all the determinants, calculates the eigenvectors and eigenvalues, and identifies the spin multiplicity of each state. Programmation of the thermal population of the states and modelization of the magnetic curve. Application to some magnetic systems&#58; half-filled and eventually hole-doped.<Br> <b> What are we going to learn&#58;</b><Br> * Understanding the way to implement the resolution of a physical problem.<Br> * Knowledge about magnetic systems.
+---

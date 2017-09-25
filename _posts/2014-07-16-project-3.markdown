@@ -3,10 +3,10 @@ title: Luchon Activities
 subtitle: Sports
 layout: default
 modal-id: 3
-date: 2016-02-13
+date: 2017-09-25
 img: sport.jpg
 thumbnail: sport_thumbnail.jpg
-project-date: January 2017
+project-date: January 2018
 alt: image-alt
 client: LTTC
 category: winter

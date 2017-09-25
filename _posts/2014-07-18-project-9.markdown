@@ -1,0 +1,14 @@
+---
+title: Quantum Dynamics
+subtitle: Arjan Berger (LCPQ)
+layout: default
+modal-id: 9
+date: 2017-09-25
+img: doublewell.gif
+thumbnail:
+alt: image-alt
+project-date: January 2018
+client: LTTC
+category: winter
+description: <b>Motivation&#58;</b>  Quantum dynamics (QD) studies the time-dependence of physical observables. It is an efficient method to do spectroscopy such as infrared spectroscopy and Raman spectroscopy.<Br> <b>Goal of the tutorial&#58;</b> Understand the theory behind DFT as well as their implementation in software packages.<Br> <b> What are we going to learn&#58;</b><Br> * How to compute the required integrals involving the exchange-correlation potentials via numerical quadratures.<Br> * Implementation of several well-known exchange and correlation functionals.
+---

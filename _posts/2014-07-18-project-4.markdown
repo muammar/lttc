@@ -1,0 +1,14 @@
+---
+title: Introduction to Parallel Computing and Supercomputer Architectures
+subtitle: Anthony Scemama (LCPQ)
+layout: default
+modal-id: 4
+date: 2017-09-25
+img: antho.jpg
+thumbnail:
+alt: image-alt
+project-date: January 2018
+client: LTTC
+category: winter
+description: <b>Motivation&#58;</b> Computational chemistry is a discipline which may require very large calculations. Nowadays, these are usually performed on large parallel computers.<Br> <b>Goal of the tutorial&#58;</b> Prepare the students for the programming sessions of the week.<Br> <b> What are we going to learn&#58;</b><Br> * What is a supercomputer? hardware, etc.<Br> * Guidelines for efficient programming on parallel machines 
+---
