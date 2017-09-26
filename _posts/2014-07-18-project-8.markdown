@@ -4,7 +4,7 @@ subtitle: Nicolas Suaud (LCPQ)
 layout: default
 modal-id: 8
 date: 2017-09-25
-img: nico.jpg
+img: nico_petit.png
 thumbnail:
 alt: image-alt
 project-date: January 2018

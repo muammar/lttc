@@ -4,7 +4,7 @@ subtitle: Pierre-François Loos (LCPQ)
 layout: default
 modal-id: 5
 date: 2017-09-25
-img: titoo.png
+img: titoo_petit.png
 thumbnail:
 alt: image-alt
 project-date: January 2018

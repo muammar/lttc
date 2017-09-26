@@ -4,7 +4,7 @@ subtitle: Jérôme Cuny (LCPQ)
 layout: default
 modal-id: 10
 date: 2017-09-25
-img: jerome.png
+img: jerome_petit.png
 thumbnail:
 alt: image-alt
 project-date: January 2018

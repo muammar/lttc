@@ -4,7 +4,7 @@ subtitle: Anthony Scemama (LCPQ)
 layout: default
 modal-id: 4
 date: 2017-09-25
-img: antho.jpg
+img: antho_petit.jpg
 thumbnail:
 alt: image-alt
 project-date: January 2018
