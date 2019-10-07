@@ -3,11 +3,11 @@ title: Low-dimensional Carbon structures - the usefulness of simple approaches
 subtitle: Stefano Evangelisti (LCPQ)
 layout: default
 modal-id: 7
-date: 2017-09-25
+date: 2019-10-07
 img: stefano_petit.png
 thumbnail:
 alt: image-alt
-project-date: January 2018
+project-date: January 2020
 client: LTTC
 category: winter
 description: <b>Motivation&#58;</b> Despite it simplicity, the phenomenological Hückel Hamiltonian (tight-binding Hamiltonian in the language of Physicists) is able to give a surprisingly accurate description of the electronic structure of many conjugated carbon molecules and materials&#58; energy spectrum, aromaticity, band gaps and conductivity, presence of Dirac singularities, etc. For this reasons, this approach is widely used in order to build simple models that are useful to describe these systems. <Br> <b>Goal of the tutorial&#58;</b>  Apply the Hückel Hamiltonian to several different systems, from simple aromatic molecules to nanotubes with different types of boundary conditions (open, periodic), and graphene. <Br> <b> What are we going to learn&#58;</b><Br> * Build the Hamiltonian matrix of the system, and diagonalize it with a library routine.  <Br> *  "Read" the information contained in the energy spectrum of a system. <Br> * Build a selected number of molecular orbitals, exploiting the symmetry of the system and the simplicity of the model.

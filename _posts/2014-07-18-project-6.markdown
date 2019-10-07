@@ -3,11 +3,11 @@ title: Geometry and Topology - Building Nanoparticles (BNP)
 subtitle: Romuald Poteau (LCPQ)
 layout: default
 modal-id: 6
-date: 2017-09-25
+date: 2019-10-07
 img: romu_petit.png
 thumbnail:
 alt: image-alt
-project-date: January 2018
+project-date: January 2020
 client: LTTC
 category: winter
 description: <b>Motivation&#58;</b> Metal nanoparticles (NPs) play an important role in different fields of science such as catalysis, medicine, electronics, drug carriers, sensors, pigments, magnetic and optical materials, etc. Provided that understanding atthe atomic level reactive processes that occur on their surface allows the fine-tuning of NPs, first-principles calculations can guide their conception, although this remains challenging. The reason lies in the difficulty in accurately describing such complex systems, which exhibit a nanoscale metallic core with ligands on its surface. Yet, prior to the calculation of data with a fairly accurate computational method, a valuable theoretical rationalization requires designing a relevant chemical model. This task starts by building the morphology of the metal core, which is usually a small crystal&#58; NPs can actually be classified as single crystalline polyhedral (cubes, octahedra, tetrahedra, truncated octahedra, etc.) or nonpolyhedral (plates, rods, etc.) shapes, or as multiply twinned shapes (decahedra, Marks decahedra, icosahedra, etc.,).<Br> <b>Goal of the tutorial&#58;</b> Implementation of a code that calculates the atomic positions of metal atoms in face-centered cubic structures&#58; octahedra, cuboctahedra, truncated octahedra, tetrahedra.<Br> <b> What are we going to learn&#58;</b><Br> * The experimental way to synthesize metal nanoparticles (either by physical and chemical methods).<Br> * The so-called magic numbers in alkali and noble metal nanoclusters and their relationship with the thermodynamic stability of these species.<Br> * The typical electronic structure of metal NPs and the influence of surface species on this electronic fingerprint.<Br> * The relationship between shape, size, local defects and catalytic activity of metal NPs.<Br> * The experimental way to characterize the shape of the metal core and how to simulate the so-called Radial Distribution Function (RDF) graphs.<Br> * Some simple geometry considerations and relationships, very useful to design a Molecular Builder.  

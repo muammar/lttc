@@ -3,11 +3,11 @@ title: Quantum Dynamics
 subtitle: Arjan Berger (LCPQ)
 layout: default
 modal-id: 9
-date: 2017-09-25
+date: 2019-10-07
 img: doublewell_petit.gif
 thumbnail:
 alt: image-alt
-project-date: January 2018
+project-date: January 2020
 client: LTTC
 category: winter
 description: <b>Motivation&#58;</b>  Quantum dynamics (QD) studies the time-dependence of physical observables. It is an efficient method to do spectroscopy such as infrared spectroscopy and Raman spectroscopy.<Br> <b>Goal of the tutorial&#58;</b> Goal of the tutorial&#58; Implementation of the code that calculates an energy eigenvalue spectrum by propagating a wave packet in two types of potential&#58; a harmonic potential and a symmetric double-well potential.<Br> <b> What are we going to learn&#58;</b><Br> * Propagating a wave packet in time by solving the time-dependent Schrödinger equation.<Br> * Using fast Fourier transformations to evaluate operators in reciprocal space.<Br> *Calculating spectra by Fourier transformation of time-dependent expectation values.
