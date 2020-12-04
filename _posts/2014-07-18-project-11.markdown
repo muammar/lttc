@@ -1,0 +1,14 @@
+---
+title: Quantum Monte-Carlo (QMC)
+subtitle: Anthony Scemama / Claudi Filippi (LCPQ/Twente)
+layout: default
+modal-id: 11
+date: 2020-12-04
+img: qmc.gif
+thumbnail:
+alt: image-alt
+project-date: January 2021
+client: LTTC
+category: winter
+description: <b>Motivation&#58;</b> Quantum Monte Carlo (QMC) methods are probabilistic approaches for solving the Schrödinger equation. They provide a very high accuracy, and are among the few methods in the field of quantum simulations that can fully exploit massive parallelism.<Br> <b>Goal of the tutorial&#58; </b> Compute the *exact* energy of H2 with Diffusion Monte Carlo.<Br> <b> What are we going to learn&#58;</b><Br> * To compute the energy without integrals.<Br> * How to perform an efficient stochastic sampling with Variational Monte Carlo. <Br> * How to implement a Diffusion Monte Carlo algorithm. <Br> * Embarrassingly parallel workloads.
+---
